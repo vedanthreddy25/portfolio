@@ -4,32 +4,22 @@
     "alt": "Display Picture"
   },
   "home": {
-    "name": "First Name",
-    "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "name": "Vedanth Reddy",
+    "intro": "Masters in Data Science at University of New Haven.",
     "socialLinks": [
       {
         "name": "Github",
-        "link": "https://github.com",
+        "link": "https://github.com/vedanthreddy25",
         "icon": "IoLogoGithub"
       },
       {
         "name": "LinkedIn",
-        "link": "https://www.linkedin.com",
+        "link": "https://www.linkedin.com/in/vedanthreddy7/",
         "icon": "IoLogoLinkedin"
       },
       {
-        "name": "Twitter",
-        "link": "https://twitter.com",
-        "icon": "IoLogoTwitter"
-      },
-      {
-        "name": "Blog",
-        "link": "https://username.com",
-        "icon": "IoReader"
-      },
-      {
         "name": "Appointment",
-        "link": "https://calendly.com",
+        "link": "https://calendly.com/vedanthreddy217",
         "icon": "IoCalendar"
       }
     ]
@@ -37,135 +27,44 @@
   "profile": {
     "profilePictureFileName": "Profile.webp",
     "profilePictureAlt": "Profile Image",
-    "name": "Full Legal Name",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Vedanth Reddy Doddannagari",
+    "bio": "Proactive and driven data science graduate student with a keen interest in leveraging cutting-edge analytics to uncover actionable insights. I am currently pursuing an MS in Data Science at the University of New Haven, building upon a solid foundation in information technology from CMR College of Engineering and Technology.",
     "details": {
-      "nationality": "Nationality",
-      "location": "Location",
-      "experienceStartDate": "2020-01-01",
-      "currentRole": "Role",
-      "openToCollaboration": "Yes/No",
-      "coreCompetencies": "Core competencies",
-      "personalPursuits": "Personal pursuits"
+      "nationality": "Indian",
+      "location": "New Haven,CT",
+      "currentRole": "Student",
+      "openToCollaboration": "Yes",
+      "coreCompetencies": "Data Science",
+      "personalPursuits": "Artificial Intelligence"
     },
     "resume": "Resume_Sample.pdf"
   },
   "bio": {
-    "workExperience": [
-      {
-        "company": "Company1",
-        "roles": [
-          {
-            "title": "Role1",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "year": "Dec 2021 - Present"
-          },
-          {
-            "title": "Role2",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "year": "Dec 2020 - Dec 2021"
-          }
-        ],
-        "companyURL": "https://company1.com"
-      },
-      {
-        "company": "Company2",
-        "roles": [
-          {
-            "title": "Role3",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "year": "Jan 2020 - Dec 2020"
-          }
-        ],
-        "companyURL": "https://company2.com"
-      }
-    ],
     "education": [
       {
-        "institution": "Institution1",
+        "institution": "University of New Haven",
         "degrees": [
           {
             "title": "Master",
-            "year": "Dec 2021 - Present",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-          },
-          {
-            "title": "Bachelor",
-            "year": "Dec 2020 - Dec 2021",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            "year": "Aug 2023 - Present",
+            "description": "Masters in Data Science."
           }
         ],
-        "institutionURL": "https://institution1.com"
+        "institutionURL": "https://www.newhaven.edu/index.php"
       },
       {
-        "institution": "Institution2",
+        "institution": "CMR College of Engineering & Technology",
         "degrees": [
           {
-            "title": "High School",
-            "year": "Jan 2020 - Dec 2020",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            "title": "Bachelor of Technology",
+            "year": "Aug 2019 - May 2023",
+            "description": "Graduated with First Class with Distinction (CGPA: 8.21) in Computer Science & Engineering, specializing in data Science, machine learing, data mining, and artificial intelligence."
           }
         ],
-        "institutionURL": "https://institution2.com"
-      }
-    ],
-    "volunteerExperience": [
-      {
-        "organization": "Organization1",
-        "roles": [
-          {
-            "title": "Role1",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "year": "Dec 2021 - Present"
-          },
-          {
-            "title": "Role2",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "year": "Dec 2020 - Dec 2021"
-          }
-        ],
-        "organizationURL": "https://organization1.com"
-      },
-      {
-        "organization": "Organization2",
-        "roles": [
-          {
-            "title": "Role3",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "year": "Jan 2020 - Dec 2020"
-          }
-        ],
-        "organizationURL": "https://organization2.com"
+        "institutionURL": "https://cmrcet.ac.in/"
       }
     ]
   },
-  "interests": [
-    {
-      "title": "Interest 1",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "icon": "MdHome"
-    },
-    {
-      "title": "Interest 2",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "icon": "GiFullMotorcycleHelmet"
-    },
-    {
-      "title": "Interest 3",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "icon": "AiFillAlert"
-    },
-    {
-      "title": "Interest 4",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "icon": "BiChip"
-    },
-    {
-      "title": "Interest 5",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "icon": "RiRobot2Line"
-    }
-  ],
   "skills": [
     {
       "title": "Skill 1",
