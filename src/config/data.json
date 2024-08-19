@@ -107,6 +107,24 @@
       }
     ]
   },
+  "archive": {
+    "archiveItems": [
+      {
+        "title": "Blog 1",
+        "date": "Jan 2020",
+        "imageName": "Blog 1.webp   ",
+        "imageAlt": "Blog Image",
+        "link": "https://medium.com"
+      },
+      {
+        "title": "Paper 1",
+        "date": "Jan 2020",
+        "imageName": "Paper 1.webp",
+        "imageAlt": "Paper Image",
+        "link": "https://arxiv.org"
+      }
+    ]
+  },
   "contact": {
     "phone": "8609629873",
     "emailID": "vedanthreddy217@gmail.com",
