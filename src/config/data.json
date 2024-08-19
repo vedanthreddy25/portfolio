@@ -67,68 +67,50 @@
   },
   "skills": [
     {
-      "title": "Skill 1",
+      "title": "AWS",
       "icon": "LiaJava"
     },
     {
-      "title": "Skill 2",
+      "title": "Python",
       "icon": "IoLogoPython"
     },
     {
-      "title": "Skill 3",
+      "title": "SQL",
       "icon": "FaToolbox "
     },
     {
-      "title": "Skill 4",
+      "title": "Power BI",
       "icon": "MdDesignServices"
     },
     {
-      "title": "Skill 5",
+      "title": "Excel",
       "icon": "AiFillAccountBook"
     }
   ],
   "portfolio": {
     "portfolioItems": [
       {
-        "title": "Project 1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link": "https://github.com",
+        "title": "Uber and Lyft Data Analysis",
+        "description": "Conducted thorough data analysis on Uber & Lyft data using AWS services (EC2, S3, Glue, Athena) and Power BI.Followed CRISP-DM methodology to structure project execution, delivering actionable insights for decision-making.Demonstrated proficiency in cloud-based integration, enhancing data management and visualization capabilities",
+        "link": "https://github.com/Team-13-DSDE/Uber_and_Lyft-Data-Analysis",
         "imageName": "Project 1.webp",
         "imageAlt": "Project 1 Image",
-        "technologies": ["Technology 1", "Technology 2", "Technology 3"]
+        "technologies": ["SQL", "AWS", "POWER BI"]
       },
       {
-        "title": "Project 2",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link": "https://github.com",
+        "title": "Optimization and Lego Car Racing",
+        "description": "The Lego Car Racing Project innovatively designed competitive Lego cars by leveraging mathematical modeling and experimentation. Through meticulous analysis of factors such as aerodynamics and weight, a sophisticated optimization model was crafted to maximize performance within budget constraints. Overcoming challenges, including code implementation and part valuation, the project underscored the importance of collaboration and problem-solving. The culmination of the project yielded valuable insights into the intricate interplay of design, performance, and cost considerations, paving the way for future advancements in Lego car design methodologies.",
+        "link": "https://github.com/vedanthreddy25/Optimization-and-Lego-Car-Racing",
         "imageName": "Project 2.webp",
         "imageAlt": "Project 2 Image",
-        "technologies": ["Technology 1", "Technology 2", "Technology 3"]
-      }
-    ]
-  },
-  "archive": {
-    "archiveItems": [
-      {
-        "title": "Blog 1",
-        "date": "Jan 2020",
-        "imageName": "Blog 1.webp   ",
-        "imageAlt": "Blog Image",
-        "link": "https://medium.com"
-      },
-      {
-        "title": "Paper 1",
-        "date": "Jan 2020",
-        "imageName": "Paper 1.webp",
-        "imageAlt": "Paper Image",
-        "link": "https://arxiv.org"
+        "technologies": ["Optimization", "Mathematical Modeling", "OPL(CPLEX)"]
       }
     ]
   },
   "contact": {
-    "phone": "1234567890",
-    "emailID": "email@example.com",
-    "address": "123 Main St, Anytown USA 12345",
-    "addressLink": "https://www.google.com/maps"
+    "phone": "8609629873",
+    "emailID": "vedanthreddy217@gmail.com",
+    "address": "149 Winchester Ave, New Haven, CT 06511",
+    "addressLink": "https://maps.app.goo.gl/tzEPsfyC1QTcReGd9"
   }
 }
