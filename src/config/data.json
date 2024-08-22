@@ -84,7 +84,7 @@
         "roles": [
           {
             "title": "Role1",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "description": "Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "year": "Dec 2021 - Present"
           },
           {
