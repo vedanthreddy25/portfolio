@@ -78,6 +78,37 @@
       }
     ]
   },
+   "volunteerExperience": [
+      {
+        "organization": "Organization1",
+        "roles": [
+          {
+            "title": "Role1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "year": "Dec 2021 - Present"
+          },
+          {
+            "title": "Role2",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "year": "Dec 2020 - Dec 2021"
+          }
+        ],
+        "organizationURL": "https://organization1.com"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "title": "Yoga",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "icon": "MdHome"
+    },
+    {
+      "title": "Reading Books",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "icon": "GiFullMotorcycleHelmet"
+    }
+  ],
   "skills": [
     {
       "title": "AWS",
