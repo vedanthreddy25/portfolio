@@ -40,6 +40,19 @@
     "resume": "Resume_Sample.pdf"
   },
   "bio": {
+     "workExperience": [
+      {
+        "company": "NeoDocto",
+        "roles": [
+          {
+            "title": "Data Analyst",
+            "description": "•	Developed and implemented data analysis frameworks to derive insights for strategic decision-making.Managed data entry tasks with precision and accuracy.Conducted thorough data cleaning and validation processes to ensure data integrity.",
+            "year": "Jan 2023 - Mar 2023"
+          }
+        ],
+        "companyURL": "https://neodocto.com/"
+      }
+    ],
     "education": [
       {
         "institution": "University of New Haven",
